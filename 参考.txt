@@ -1,0 +1,7 @@
+環境
+https://qiita.com/shoki-y/items/1be906c372c8a9a993a3
+
+Ubuntu/home/~/react_vite_ts_test
+にプロジェクトを作成してdockerコンテナ内で開発
+
+VSCode から、WSL に接続してこのフォルダを開く
