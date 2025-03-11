@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import MyPractice from './MyPractice';
 
 //https://www.youtube.com/watch?v=ANcopd8Bmao
 function App() {
@@ -95,6 +96,9 @@ function App() {
           </li>
         ))}
       </ul>
+      
+      <h2>コンポーネントの練習</h2>
+      <MyPractice />
     </div>
   )
 }
